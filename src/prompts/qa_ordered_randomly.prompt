@@ -1,0 +1,6 @@
+Write a high-quality answer for the given question using only the provided search results (some of which might be irrelevant). The search results are ordered randomly. Please pay equal attention to the content of each document ad different positions and use the document you find most relevant to help answer the question.
+
+{search_results}
+
+Question: {question}
+Answer:

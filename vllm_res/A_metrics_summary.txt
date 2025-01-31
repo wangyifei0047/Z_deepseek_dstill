@@ -1,0 +1,9 @@
+DeepSeek-R1-Distill-Llama-8B_5
+best_subspan_em: 0.64125
+
+DeepSeek-R1-Distill-Llama-8B_5
+best_subspan_em: 0.64125
+
+DeepSeek-R1-Distill-Llama-8B_5
+best_subspan_em: 0.64125
+
